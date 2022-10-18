@@ -1,4 +1,7 @@
-### Hi there 👋
+# 👋 about me
+### 👨‍💻 CS Student at FH Aachen
+### 🌱 I’m currently learning C++
+### 📫 How to reach me: hendrik03baier@gmail.com
 
 <!--
 **JumpingCodes/JumpingCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
