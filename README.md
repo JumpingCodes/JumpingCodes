@@ -2,6 +2,7 @@
 #### 👨‍💻 CS Student at FH Aachen
 #### 🌱 I’m currently learning C++
 #### 📫 How to reach me: hendrik03baier@gmail.com
+#### 🔍 Currently looking into stable diffusion 
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/](https://www.linkedin.com/in/hendrik-baier-933a9b232/))
