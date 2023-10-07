@@ -5,7 +5,7 @@
 I'm currently diving into the world of **C++** and exploring its powerful capabilities.
 
 ## 📫 How to Reach Me
-You can reach me at: hendrik03baier@gmail.com
+You can reach me at: info@hendrikbaier.dev
 
 ## 🔍 Current Interest
 I'm currently fascinated by the concept of **stable diffusion** and its applications.
