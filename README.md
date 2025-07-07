@@ -1,38 +1,42 @@
-# 👋 About Me
-### Hi there! 👋 I'm Hendrik Baier, a CS student at FH Aachen.
+# About Me
 
-## 🌱 Currently Learning
-I'm currently diving into the world of **DevOps**.
+I'm Hendrik Baier, a Computer Science student at FH Aachen. I’m especially interested in infrastructure, automation, and development workflows.
 
-## 📫 How to Reach Me
-You can reach me at: mail@hendrikbaier.de
+## Currently Learning
 
-## 🌐 Socials
-Connect with me on LinkedIn:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hendrik-baier-933a9b232/)
+I'm currently focused on DevOps, particularly containerization, CI/CD, and monitoring.
 
-## 💻 Technologies and Languages
+## Contact
+
+Email: mail@hendrikbaier.de
+
+LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hendrik-baier-933a9b232/)
+
+## Technologies and Tools
 Here are some of the technologies and languages I've worked with:
 
-##### As a fulltime developer intern
+
+#### Full-time Developer Intern
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 
-##### As a working student in DevOps and server administration
+#### Working Student (DevOps & Server Administration)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)
 [![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?logo=grafana&logoColor=white)](#)
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=Prometheus&logoColor=white)](#)
 
-##### As a working student developer
+#### Working Student (Development)
 [![Perl](https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white)](#)
 
-##### In my spare time and/or in University
+#### University & Personal Projects
 [![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](#)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white)
 
+---
 
-Feel free to explore my GitHub profile to see more of my work!
+Feel free to check out my GitHub profile for more details on what I’m working on.
+
